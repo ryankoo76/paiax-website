@@ -463,19 +463,13 @@ Mono / Badge:        Space Mono (weight 400, 700)
     카이스트 / 서강대학교 / Hacker-Dojo / iWISE
     각 항목에 지역 태그 (골드 배경 10%)
 
-우측 인물 카드 2개 (각 카드: white bg, 골드 좌측 3px 라인):
+우측 인물 카드 1개 (각 카드: white bg, 골드 좌측 3px 라인):
   레이아웃: 가로 flex (사진 + 정보)
   
   사진 영역: 56x56px, 점선 골드 테두리
                "사진 예정" 텍스트
   
   카드 1:
-    역할: "현 협회장 · PRESIDENT" (Space Mono, gold)
-    이름: "서강대 은진은 교수" (Noto Serif, 1rem, bold)
-    소속: "서강대학교" (gray)
-    인용: "AI중심대학 선정 과정에서 가장 중요한 것은 실행 가능한 인프라입니다..."
-    
-  카드 2:
     역할: "초대 협회장 · FOUNDING PRESIDENT"
     이름: "카이스트 윤용진 교수"
     소속: "카이스트 (KAIST)"

@@ -160,18 +160,6 @@ function Leadership() {
             <div className="leader-card reveal">
               <div className="leader-photo">사진<br />예정</div>
               <div className="leader-info">
-                <div className="leader-role">현 협회장 · PRESIDENT</div>
-                <div className="leader-name">서강대 은진은 교수</div>
-                <div className="leader-org">서강대학교</div>
-                <p className="leader-quote">
-                  "AI중심대학 선정 과정에서 가장 중요한 것은 실행 가능한 인프라입니다.
-                  PAIAX는 그 실행을 책임집니다."
-                </p>
-              </div>
-            </div>
-            <div className="leader-card reveal">
-              <div className="leader-photo">사진<br />예정</div>
-              <div className="leader-info">
                 <div className="leader-role">초대 협회장 · FOUNDING PRESIDENT</div>
                 <div className="leader-name">카이스트 윤용진 교수</div>
                 <div className="leader-org">카이스트 (KAIST)</div>
